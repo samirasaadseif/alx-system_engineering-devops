@@ -1,1 +1,1 @@
-a script that prints hello user
+a script that counts the number of directories
